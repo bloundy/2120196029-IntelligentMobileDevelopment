@@ -39,10 +39,7 @@ There are features available in this patient information app, here I will list a
 
 <li> <a href="# ">Click this to view Hello World Classwork</a><br>
 
-  
-  <img src="/images/Hello World Class Work .png" width = "350" height = "500" />
-
-<li> <a href="# ">Click this to view Hello World Homework</a>
+ <img src="/images/Hello World Class Work .png" width = "350" height = "500" />
 
 ### Week 3. Layouts and resources for the UI
 #### Codelab 1.2 Part A: Your first interactive UI
@@ -64,24 +61,20 @@ There are features available in this patient information app, here I will list a
 #### Codelab 2.3: Implicit Intents
 
 <li> <a href="# "> Click this to view ImplicitIntents Classwork</a><br>
-   <img src="/images/Implicit Intents Classwork.png" width = "250" height = "300" />
+   <img src="/images/Implicit Intents Classwork.png" width = "350" height = "500" />
 
 <li> <a href="# "> Click this to view Implicit_IntentsReciver Classwork</a>
 
-<li> <a href="# "> Click this to view ImplicitIntents Homework</a>
-  
 ### Week 6. User Interaction
 #### Codelab 4.1: Clickable images
 
 <li> <a href="# "> Click this to view Droid Cafe Classwork</a><br>
-   <img src="/images/DroidCafeClasswork.png" width = "250" height = "300" />
- 
-<li> <a href="# "> Click this to view Droid Cafe Homework</a> 
+   <img src="/images/DroidCafeClasswork.png" width = "350" height = "500" />
 
 #### Codelab 4.2: Input controls
 
 <li> <a href="# "> Click this to view DroidCafeInput Classwork</a><br>
-   <img src="/images/DroidCafeInput Classwork.png" width = "250" height = "300" />
+   <img src="/images/DroidCafeInput Classwork.png" width = "350" height = "500" />
 
 <li> <a href="# "> Click this to view Checkboxes Homework</a>
 
@@ -91,7 +84,7 @@ There are features available in this patient information app, here I will list a
 <li> <a href="# "> Click this to view DroidCafeOptions Classwork</a>
 
 <li> <a href="# "> Click this to view Tab Experiment Classwork</a><br>
-   <img src="/images/TabExperiment Classwork.png" width = "250" height = "300" />
+   <img src="/images/TabExperiment Classwork.png" width = "350" height = "500" />
 
 #### Codelab 4.5: RecyclerView
 
