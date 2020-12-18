@@ -40,7 +40,7 @@ There are features available in this patient information app, here I will list a
 <li> <a href="# ">Click this to view Hello World Classwork</a><br>
 
   
-  <img src="/images/Hello World Class Work .png" width = "350" height = "490" />
+  <img src="/images/Hello World Class Work .png" width = "350" height = "500" />
 
 <li> <a href="# ">Click this to view Hello World Homework</a>
 
