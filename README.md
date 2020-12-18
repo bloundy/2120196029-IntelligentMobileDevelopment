@@ -57,11 +57,11 @@ There are features available in this patient information app, here I will list a
 #### Codelab 2.1: Activities and intents
 
 <li> <a href="https://github.com/bloundy/2120196029-IntelligentMobileDevelopment/tree/TwoActivities_Classwork"> Click this to view TwoActivities Classwork</a><br><br>
-<img src="/images/Two activitiesclasswork.png" width = "350" height = "500" /><br><br>
+<img src="/images/Two activitiesclasswork.png" width = "300" height = "500" /><br><br>
 
 <li>TwoActivities Homework<br><br>
   
-<img src="/images/Two Activities Homework .png" width = "350" height = "500" /><br>
+<img src="/images/Two Activities Homework .png" width = "300" height = "500" /><br>
 
 ### Week 5. Implicit Intents
 #### Codelab 2.3: Implicit Intents
@@ -121,4 +121,4 @@ There are features available in this patient information app, here I will list a
 ### Week 11. Shared Preferences
 #### Codelab 9.1: Shared Preferences
 
-<img src="/images/HelloSharedPrefs.png" width = "300" height = "500" /><br>
+<img src="/images/HelloSharedPrefs1.png" width = "300" height = "500" /><br>
