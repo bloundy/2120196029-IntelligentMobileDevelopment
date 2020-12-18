@@ -75,14 +75,14 @@ There are features available in this patient information app, here I will list a
 #### Codelab 4.1: Clickable images
 
 <li> <a href="# "> Click this to view Droid Cafe Classwork</a><br>
-   <img src="/images/DroidCafeClasswork.png" width = "350" height = "500" />
+   <img src="/images/DroidCafeClasswork.png" width = "350" height = "500" /><br>
 
 #### Codelab 4.2: Input controls
 
 <li> <a href="# "> Click this to view DroidCafeInput Classwork</a><br>
    <img src="/images/DroidCafeInput Classwork.png" width = "350" height = "500" /><br>
 
-<li> <a href="# "> Click this to view Checkboxes Homework</a>
+<li> <a href="# "> Click this to view Checkboxes Homework</a><br>
 <img src="/images/Checkboxes Homework.png" width = "350" height = "500" /><br>
 
 ### Week 7. User Interaction
