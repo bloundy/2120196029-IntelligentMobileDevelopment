@@ -38,6 +38,7 @@ There are features available in this patient information app, here I will list a
 #### Codelab 1.1: Android Studio and Hello World
 
 <li> <a href="# ">Click this to view Hello World Classwork</a>
+  ![](DroidCafeInputClasswork1.png)
 
 <li> <a href="# ">Click this to view Hello World Homework</a>
 
