@@ -39,6 +39,8 @@ There are features available in this patient information app, here I will list a
 
 <li> <a href="# ">Click this to view Hello World Classwork</a>
  ![GitHub Logo](./images/DroidCafeClasswork.png)
+  
+  <img src="DroidCafeClasswork.png" alt="Computer Man" style="width:48px;height:48px;">
 
 <li> <a href="# ">Click this to view Hello World Homework</a>
 
