@@ -39,23 +39,29 @@ There are features available in this patient information app, here I will list a
 
 <li> <a href="# ">Click this to view Hello World Classwork</a><br>
 
- <img src="/images/Hello World Class Work .png" width = "350" height = "500" />
+<img src="/images/Hello World Class Work .png" width = "350" height = "500" /><br>
 
 ### Week 3. Layouts and resources for the UI
 #### Codelab 1.2 Part A: Your first interactive UI
 
 <li> <a href="# ">Click this to view HelloToast_Classwork</a><br>
   
+<img src="/images/Hello Toast Classwork.png" width = "350" height = "500" /><br>
+  
 #### Codelab 1.2 Part B: The layout editor
 
-<li> <a href="# ">Click this to view HelloConstraint_Homework</a>
+<li> <a href="# ">Click this to view HelloConstraint_Homework</a><br>
+<img src="/images/Hello Constraint Homework .png" width = "350" height = "500" /><br>
 
 ### Week 4. Activities and intents
 #### Codelab 2.1: Activities and intents
 
 <li> <a href="# "> Click this to view TwoActivities Classwork</a><br>
+<img src="/images/Two activitiesclasswork.png" width = "350" height = "500" /><br>
 
-<li> <a href="# "> Click this to view TwoActivities Homework</a> 
+<li> <a href="# "> Click this to view TwoActivities Homework</a><br>
+  
+<img src="/images/Two Activities Homework .png" width = "350" height = "500" /><br>
 
 ### Week 5. Implicit Intents
 #### Codelab 2.3: Implicit Intents
@@ -74,17 +80,19 @@ There are features available in this patient information app, here I will list a
 #### Codelab 4.2: Input controls
 
 <li> <a href="# "> Click this to view DroidCafeInput Classwork</a><br>
-   <img src="/images/DroidCafeInput Classwork.png" width = "350" height = "500" />
+   <img src="/images/DroidCafeInput Classwork.png" width = "350" height = "500" /><br>
 
 <li> <a href="# "> Click this to view Checkboxes Homework</a>
+<img src="/images/Checkboxes Homework.png" width = "350" height = "500" /><br>
 
 ### Week 7. User Interaction
 #### Codelab 4.4: User navigation
 
-<li> <a href="# "> Click this to view DroidCafeOptions Classwork</a>
+<li> <a href="# "> Click this to view DroidCafeOptions Classwork</a><br>
+<img src="/images/DroidCafeOptionsUp Classwork.png" width = "350" height = "500" /><br>
 
 <li> <a href="# "> Click this to view Tab Experiment Classwork</a><br>
-   <img src="/images/TabExperiment Classwork.png" width = "350" height = "500" />
+   <img src="/images/TabExperiment Classwork.png" width = "350" height = "500" /><br>
 
 #### Codelab 4.5: RecyclerView
 
