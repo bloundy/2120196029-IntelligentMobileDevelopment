@@ -37,7 +37,7 @@ There are features available in this patient information app, here I will list a
 ### Week 2. Get started
 #### Codelab 1.1: Android Studio and Hello World
 
-<li> <a href="# ">Click this to view Hello World Classwork</a><br><br>
+<li> <a href="https://github.com/bloundy/2120196029-IntelligentMobileDevelopment/tree/HelloWorld_Classwork">Click this to view Hello World Classwork</a><br><br>
 
 <img src="/images/Hello World Class Work .png" width = "300" height = "500" /><br>
 
