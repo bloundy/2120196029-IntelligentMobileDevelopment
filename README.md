@@ -1,10 +1,10 @@
 ## FINAL COURSE PROJECT
 
 - COURSE: Intelligent Mobile Application
-- PROJECT TITLE: To Design and Develop a simple CRDU Hobby Information App
+- PROJECT TITLE: To Design and Develop a simple CRDU Hobby Information Application
 
 ## Features
-There are features available in this hobby information app, below are the  advantages of hobby information application.
+There are features available in this hobby information app, below are the  advantages.
 - Launch page or homepage with a get started button
 - Add basic User's hobby  information.
 - Update user's information.
