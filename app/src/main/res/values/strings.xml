@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">User Hobby App</string>
+    <string name="get_started">Get Started</string>
+    <string name="final_project">Final Project</string>
+    <string name="course_intelligent_mobile_development">Course: Intelligent Mobile Development</string>
+    <string name="nankailogo">nankailogo</string>
+    <string name="to_design_and_develop_user_hobby_app">To Design and Develop User Hobby App</string>
+
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_hobby">Enter Hobby</string>
+    <string name="enter_city">Enter City</string>
+    <string name="name">name</string>
+    <string name="hobby">hobby</string>
+    <string name="city">city</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="user_hobby_information">User Hobby Information</string>
+    <string name="enter_user_hobby_information">Enter User Hobby Information</string>
+    <string name="save">Save</string>
+    <string name="get_all_users_information">Get All Users Information</string>
+    <string name="alpha_monarchy_conteh">Alpha Monarchy Conteh</string>
+    <string name="student_id_2120196029">Student ID: 2120196029</string>
+    <string name="_20th_december_2020">20th December, 2020</string>
+    <string name="name_alpha_monarchy_conteh">Name: Alpha Monarchy Conteh</string>
+</resources>
