@@ -9,7 +9,6 @@ There are features available in this hobby information app, below are the  advan
 - Add basic User's hobby  information.
 - Update user's information.
 - Delete user's information.
-- A clickable URL to the app GitHub.
 
 
 ## Development Environment
